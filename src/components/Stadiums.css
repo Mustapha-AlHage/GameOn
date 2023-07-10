@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+   background-image: url('https://static.vecteezy.com/system/resources/previews/007/677/104/original/white-background-with-blue-geometric-and-white-line-pattern-free-vector.jpg');
+    background-size: cover; /* Adjust the background size as needed */
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+/* .stadiumsContainer{
+    
+    
+} */
+.stadium{
+    
+    box-shadow: 1px 2px 34px 7px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 1px 2px 34px 7px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 2px 34px 7px rgba(0,0,0,0.75);
+
+    border-radius: 37px 37px 37px 37px;
+-webkit-border-radius: 37px 37px 37px 37px;
+-moz-border-radius: 37px 37px 37px 37px;
+    
+}
+

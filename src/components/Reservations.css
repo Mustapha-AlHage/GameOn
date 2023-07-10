@@ -1,0 +1,17 @@
+.ReservationsContainer{
+    background-image: url('https://static.vecteezy.com/system/resources/previews/007/677/104/original/white-background-with-blue-geometric-and-white-line-pattern-free-vector.jpg');
+    background-size: cover; /* Adjust the background size as needed */
+    background-position: center; 
+    background-repeat: no-repeat    ;
+    
+    background-attachment: fixed;
+}
+
+/* body{
+    margin: 0;
+     background-image: url('https://static.vecteezy.com/system/resources/previews/007/677/104/original/white-background-with-blue-geometric-and-white-line-pattern-free-vector.jpg');
+    background-size: cover; /* Adjust the background size as needed */
+    /* background-position: center; 
+    background-repeat: no-repeat    ;
+    background-size: 100%;
+} */ 
